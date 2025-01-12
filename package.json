@@ -1,0 +1,14 @@
+{
+  "name": "foodwine",
+  "version": "1.0.0",
+  "description": "Pagina gastronomica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "foodWine"
+  ],
+  "author": "Efren Mariscal",
+  "license": "ISC"
+}

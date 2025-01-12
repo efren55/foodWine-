@@ -1,0 +1,5 @@
+////////////HEADER
+- El menu hamburguer se desplegara hacia la derecha con un color de fondo vino claro o del color del logo claro 
+- Hay que ver hasta donde se desplegara la imagen, que solo cubra el contenedor o se despliegue hasta la navegacion
+- Escoger fuentes de acuerdo al logo y otra fuente complementaria 
+- Escoger paleta de colores de acuerdo al logo
